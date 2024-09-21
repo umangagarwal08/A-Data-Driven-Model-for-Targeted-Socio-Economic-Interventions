@@ -1,5 +1,3 @@
-Based on the model provided in the document, the business interpretation can be summarized as follows:
-
 ### **Objective:**
 The goal of the model is to classify countries into three distinct categories based on various socio-economic factors such as child mortality, exports, health, imports, income, inflation, life expectancy, total fertility rate, and GDP per capita.
 
